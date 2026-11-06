@@ -42,6 +42,12 @@ body {
     backdrop-filter: blur(12px);
     animation: slideDown 0.8s ease;
 }
+.logo-header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+}
 .logo{
     
     width: 50px;
